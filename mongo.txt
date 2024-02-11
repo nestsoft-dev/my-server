@@ -1,0 +1,1 @@
+mongodb+srv://ikennasimonbusiness:Collins1999@cluster0.yfagbm6.mongodb.net/?retryWrites=true&w=majority
